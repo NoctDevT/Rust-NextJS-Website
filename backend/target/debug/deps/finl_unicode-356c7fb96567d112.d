@@ -1,0 +1,10 @@
+C:\Users\Tea\Documents\Discord\projects\Rust-NextJS-Website\backend\target\debug\deps\finl_unicode-356c7fb96567d112.rmeta: C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\lib.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\categories.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\grapheme_clusters.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\mod.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\characters.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\grapheme_property.rs
+
+C:\Users\Tea\Documents\Discord\projects\Rust-NextJS-Website\backend\target\debug\deps\finl_unicode-356c7fb96567d112.d: C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\lib.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\categories.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\grapheme_clusters.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\mod.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\characters.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\grapheme_property.rs
+
+C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\lib.rs:
+C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\categories.rs:
+C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\grapheme_clusters.rs:
+C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\mod.rs:
+C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\characters.rs:
+C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\finl_unicode-1.2.0\src\data\grapheme_property.rs:

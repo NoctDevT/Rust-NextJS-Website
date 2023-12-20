@@ -1,0 +1,10 @@
+C:\Users\Tea\Documents\Discord\projects\Rust-NextJS-Website\backend\target\debug\deps\futures_channel-ba015ddc1d53ce7f.rmeta: C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lib.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lock.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\mod.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\queue.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\sink_impl.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\oneshot.rs
+
+C:\Users\Tea\Documents\Discord\projects\Rust-NextJS-Website\backend\target\debug\deps\futures_channel-ba015ddc1d53ce7f.d: C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lib.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lock.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\mod.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\queue.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\sink_impl.rs C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\oneshot.rs
+
+C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lib.rs:
+C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\lock.rs:
+C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\mod.rs:
+C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\queue.rs:
+C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\mpsc\sink_impl.rs:
+C:\Users\Tea\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.29\src\oneshot.rs:
