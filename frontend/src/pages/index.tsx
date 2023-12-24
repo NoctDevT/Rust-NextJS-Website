@@ -3,8 +3,10 @@ import UserInterface from '../components/UserInterface'
 
 const Home: React.FC = () => {
   return (
-    <div className='flex flex-col items-center justify-center min-h-screen py-2'>
+    <div className='flex flex-wrap items-start justify-center min-h-screen bg-gray-100'>
+      <div className='m-4'>
       <UserInterface backendName="rust"/>
+      </div>
     </div>
   )
 }
